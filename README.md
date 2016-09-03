@@ -1,0 +1,2 @@
+# Analytics_Training_PreWork
+PreWork_Session1_October_Strings_List
